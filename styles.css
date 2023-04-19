@@ -1,4 +1,7 @@
 /* your code here */
+.media-icons{
+	display:flex;
+}
 img{
 	width:40px;
 	height:40px;
